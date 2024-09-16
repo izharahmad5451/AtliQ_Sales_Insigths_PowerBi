@@ -52,7 +52,7 @@ and success criteria  of our project.
 #### Interactive dashboard
 
 ---
-<img src="https://github.com/izharahmad5451/AtliQ_Sales_Insigths_PowerBi/blob/main/GIF.giff" width="600" class="center">
+<img src="https://github.com/izharahmad5451/AtliQ_Sales_Insigths_PowerBi/blob/main/GIF.gif" width="600" class="center">
 
 
 
